@@ -1,2 +1,2 @@
 #!/bin/bash
-exponent path-$PATH:/action
+path-$PATH:/action
